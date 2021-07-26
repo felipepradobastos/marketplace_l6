@@ -58,4 +58,5 @@ class StoreController extends Controller
         return redirect()->route('admin.stores.index');
     }
 
+
 }
